@@ -1,2 +1,0 @@
-# Metodologia
-info alv
